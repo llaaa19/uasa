@@ -1,0 +1,82 @@
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7250D/S7250DXXKK1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/93.131; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XEKC2; U; Bada/1.0; uk-ua) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8530/S8530XEJL4; U; Bada/1.2; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.2 Mobile WVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XEJH4; U; Bada/1.0; uk-ua) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5380D/S5380FXXKL3; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLD1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXKK7; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEKJ3; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S3850/S3850XEKC4 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S3850/S3850XEKC5 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S5260/S5260XEKD1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEJI9; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEKC1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S3850/S3850XELH1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5380D/S5380DXXKK4; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XXLD1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEKB1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5380D/S5380FXXLF1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XEKH2; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEKD3; U; Bada/1.0; uk-ua) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XXJF8; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/95.90; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S525WXEKJ1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S5260/S5260XEKA6 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B Google
+SAMSUNG-GT-S3850/1.0 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S3850/S3850JPKG1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B Google
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5380D/S5380DXXLF1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXKJC; U; Bada/2.0; pt-pt) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+SAMSUNG-GT-B2710/B2710XXLK1 SHP/VPP/R5 Dolfin/2.0 QTV/5.3 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S3850/S3850BCKD1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLI1; U; Bada/2.0; en-us) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+SAMSUNG-GT-S3850/S3850XXKC2 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XXJEE; U; Bada/1.0; pt-pt) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250BBKC1; U; Bada/1.0; pt-pt) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXKL1; U; Bada/2.0; pt-pt) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XXJL2; U; Bada/1.2; pt-pt) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.2 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250BBKJ1; U; Bada/1.0; pt-pt) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+SAMSUNG-GT-S5260/S5260XXKC4 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XXLA1; U; Bada/2.0; pt-pt) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLC3; U; Bada/2.0; pt-pt) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+SAMSUNG-GT-S5260/S5260XXKG2 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEJK1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XXJL2; U; Bada/1.2; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.2 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEKJ3; U; Bada/1.0; en-us) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5380D/S5380DXXKK4; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B UNTRUSTED/1.0
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723EXEKK2; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723WXEKD2; U; Bada/1.0; uk-ua) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XEJF2; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXKJC; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7250D/S7250DXXKJ7; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/28.2443; U; ru) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XXLA1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/28.2647; U; ru) Presto/2.8.119 Version/11.10
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8530/S8530XELF1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250XEJK2; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/28.3821; U; ru) Presto/2.8.119 Version/11.10
+SAMSUNG-GT-S5260/S5260XEKK1 SHP/VPP/R5 Dolfin/2.0 NexPlayer/3.0 SMM-MMS/1.2.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5380D/S5380DXXKK4; U; Bada/2.0; en-us) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile HVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723WXEKB3; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S525WXEKB1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723EXEJK1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723EXEKB2; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXKJD; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Opera/9.80 (Bada; Opera Mini/6.5/32.1440; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Bada; Opera Mini/6.5/37.7059; U; ru) Presto/2.12.423 Version/12.16
+Opera/9.80 (Bada; Opera Mini/6.5/37.7206; U; ru) Presto/2.12.423 Version/12.16
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723WXEKF1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8500/S8500XELB2; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S5250BBJJ4; U; Bada/1.0; en-us) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLL3; U; Bada/2.0; fr-fr) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5250/S525WXEKE1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S7230E/S723EXEKF1; U; Bada/1.0; ru-ru) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 NexPlayer/3.0 profile/MIDP-2.1 configuration/CLDC-1.1 OPN-B
+Mozilla/5.0 (Linux; U; Android 4.2.1; ru-ru; ZP980 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; Android 4.2.1; ZP980 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 4.2.1; ru-ru; ZP980 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 YaBrowser/19.5.0.155 (lite)
+Mozilla/5.0 (Linux; U; Android 4.2.1; ru-ru; ZP980 Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 YaBrowser/19.6.0.158 (lite)
+Mozilla/5.0 (Linux; Android 4.2.1; ZP980 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.2.1; ZP980 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.2.1; ZP980 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.2.1; ZP980 Build/JOP40D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S5753E/S5753EDDKF1; U; Bada/1.0; en-us) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/2.0 Mobile WQVGA SMM-MMS/1.2.0 OPN-B
